@@ -2,5 +2,4 @@
 
 Phonepe payment app home screenshots
 
-![](https://github.com/niyas-ali/Designs/tree/master/Adobe%20XD/Phonepe/screenshots/home-screen.png)
-
+![](https://github.com/niyas-ali/Designs/blob/master/Adobe%20XD/PhonePe/screenshots/homescreen.jpg)
